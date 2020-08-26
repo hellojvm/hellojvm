@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💬 Ask me about java,mysql,ops
+- 📫 How to reach me:[up](https://space.bilibili.com/491985910/video)
